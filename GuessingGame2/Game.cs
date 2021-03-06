@@ -28,7 +28,7 @@ namespace GuessingGame2
 
             Input = Console.ReadLine();
 
-            if (Input == Words[Target])
+            if (Input.ToLower() == Words[Target])
             {
                 Console.WriteLine("Awww dang... You guessed it!");
                 Console.WriteLine("Would you like to play again?");
