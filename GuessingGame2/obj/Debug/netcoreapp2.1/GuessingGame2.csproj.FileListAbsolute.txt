@@ -1,0 +1,12 @@
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp2.1\GuessingGame2.deps.json
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp2.1\GuessingGame2.runtimeconfig.json
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp2.1\GuessingGame2.runtimeconfig.dev.json
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp2.1\GuessingGame2.dll
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp2.1\GuessingGame2.pdb
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.csprojAssemblyReference.cache
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.AssemblyInfoInputs.cache
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.AssemblyInfo.cs
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.csproj.CoreCompileInputs.cache
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.dll
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.pdb
+C:\Users\cacar\source\repos\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp2.1\GuessingGame2.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GuessingGame2/1.0.0": {
+        "runtime": {
+          "GuessingGame2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessingGame2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
